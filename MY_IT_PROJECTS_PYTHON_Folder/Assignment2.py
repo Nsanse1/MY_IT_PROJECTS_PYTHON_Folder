@@ -37,7 +37,5 @@ while running:
         running = False
 
 
-            # Create a List of Students and Print each using a for loop
-students = {"Nsanse", "Homs", "Kisha", "Amake", "Esin"}:
-for students in["Nsanse", "Homs", "Kisha", "Amake", "Esin"]:
-    print(students)
+    
+
